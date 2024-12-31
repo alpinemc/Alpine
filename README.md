@@ -5,3 +5,7 @@
 (Note not all mods are open source)
 
 Contributors are Welcome!
+
+
+
+***Attention! Looking for a Dev to Make a Mod Installer and Get the Mods Folder Working.***
